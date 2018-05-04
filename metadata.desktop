@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Hide Titlebar for Maximized Windows
+Comment=Hide Titlebar for Maximized Windows to save real estate
+Icon=latte-dock
+Type=Service
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-KWin-Border-Activate=true
+X-KDE-PluginInfo-Author=Markus Wallerberger
+X-KDE-PluginInfo-Email=markus.wallerberger@gmx.at
+X-KDE-PluginInfo-Name=hidetitlebarmax
+X-KDE-PluginInfo-Version=0.1
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script
+X-KDE-PluginKeyword=hidetitlebarmax
+
